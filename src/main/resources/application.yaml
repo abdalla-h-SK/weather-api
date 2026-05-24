@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: weather-api
+
+server:
+  port: 8080
+
+weather:
+  api:
+    key: de58523d6e7de4257f24de150fc74b87
+    base-url: https://api.openweathermap.org/data/2.5/weather
+    units: metric
