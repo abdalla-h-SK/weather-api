@@ -7,6 +7,6 @@ server:
 
 weather:
   api:
-    key: de58523d6e7de4257f24de150fc74b87
+    key: ${OPEN_WEATHER_API_KEY}
     base-url: https://api.openweathermap.org/data/2.5/weather
     units: metric
