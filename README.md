@@ -216,3 +216,9 @@ This project uses the **OpenWeatherMap Current Weather API**:
 ## 👨‍💻 Author
 
 Built with ❤️ using Spring Boot 3.5 and Java 21.
+
+---
+
+## Project URL
+
+https://roadmap.sh/projects/weather-api-wrapper-service
